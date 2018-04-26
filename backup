@@ -1,0 +1,2 @@
+	python src/TaskRunner/setup.py install
+	python src/FetchService/setup.py install
